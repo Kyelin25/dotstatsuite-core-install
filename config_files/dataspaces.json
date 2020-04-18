@@ -1,0 +1,16 @@
+{
+    "DotStatSuiteCoreCommonDbConnectionString": "",
+    "spacesInternal": [
+    {
+      "Id": "design",
+      "DotStatSuiteCoreStructDbConnectionString": "Data Source=localhost;Initial Catalog=DesignStructDb;User ID=testLoginDesignStruct;Password=testLogin(\\!)Password",
+      "DotStatSuiteCoreDataDbConnectionString": "Data Source=localhost;Initial Catalog=DesignDataDb;User ID=testLoginDesignData;Password=testLogin(\\!)Password",
+      "DataImportTimeOutInMinutes": 60,
+      "DatabaseCommandTimeoutInSec": 360,
+      "AutoLog2DB": false,
+      "AutoLog2DBLogLevel": "notice",
+      "EmailLogLevel": "notice",
+      "AllowPITTargetDataVersion": false
+    }
+  ]
+}
